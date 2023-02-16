@@ -4,12 +4,19 @@ repo: kulpa-status-page
 sites:
   - name: Web app
     url: https://app.kulpacloud.com
+  - name: Police Command & Control
+    url: https://police.kulpacloud.com
+  - name: Core API
+    url: https://api.kulpa.io/core
+    expectedStatusCodes:
+      - 200
+      - 404
 
 status-website:
   #cname: demo.upptime.js.org
   baseUrl: /kulpa-status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Kulpa health
+  name: Kulpa Health
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
