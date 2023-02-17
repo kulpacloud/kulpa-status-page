@@ -14,7 +14,7 @@ sites:
 
 status-website:
   cname: health.kulpacloud.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/kulpacloud/kulpa-status-page/master/assets/Kulpa-logo.png
   name: Kulpa Health
 
 # Upptime also supports notifications, assigning issues, and more
