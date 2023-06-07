@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 520,
-    "timeDay": 463,
-    "timeWeek": 604,
-    "timeMonth": 518,
-    "timeYear": 520,
+    "time": 518,
+    "timeDay": 364,
+    "timeWeek": 559,
+    "timeMonth": 512,
+    "timeYear": 518,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/police.kulpacloud.com.ico",
     "slug": "police-command-and-control",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.46%",
+    "uptimeDay": "40.91%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "99.46%",
     "time": 214,
-    "timeDay": 179,
-    "timeWeek": 249,
-    "timeMonth": 212,
+    "timeDay": 199,
+    "timeWeek": 238,
+    "timeMonth": 211,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2023-06-06": 10
+      "2023-06-07": 23,
+      "2023-06-06": 828
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 519,
-    "timeWeek": 538,
-    "timeMonth": 490,
-    "timeYear": 483,
+    "time": 482,
+    "timeDay": 337,
+    "timeWeek": 505,
+    "timeMonth": 486,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   }
 ]
